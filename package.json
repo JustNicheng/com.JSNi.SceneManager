@@ -1,0 +1,12 @@
+{
+    "name": "com.JSNi.SceneManager",
+    "version": "1.0.0",
+    "displayName": "SceneManager",
+    "description": "進入遊戲以及關閉遊戲的場景管理器",
+    "unity": "2022.3.4",
+    "author": {
+      "name": "JSNi",
+      "email": "timbiohazard4@gmail.com",
+      "url": "https://github.com/JustNicheng"
+    }
+  }
